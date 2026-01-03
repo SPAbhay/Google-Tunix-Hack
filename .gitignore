@@ -10,6 +10,7 @@ venv/
 
 # Data files
 *.jsonl
+*.json
 
 # VS Code
 .vscode/
